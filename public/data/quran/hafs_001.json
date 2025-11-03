@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 2,
+    "line_end": 2,
+    "aya_no": 1,
+    "text_tashkeel": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ ١",
+    "text_simple": "بسم الله الرحمن الرحيم",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 2,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 2,
+    "text_tashkeel": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ ٢",
+    "text_simple": "الحمد لله رب العالمين",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 3,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 4,
+    "line_end": 4,
+    "aya_no": 3,
+    "text_tashkeel": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ ٣",
+    "text_simple": "الرحمن الرحيم",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 4,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 4,
+    "line_end": 4,
+    "aya_no": 4,
+    "text_tashkeel": "مَٰلِكِ يَوۡمِ ٱلدِّينِ ٤",
+    "text_simple": "مالك يوم الدين",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 5,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 5,
+    "line_end": 5,
+    "aya_no": 5,
+    "text_tashkeel": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ ٥",
+    "text_simple": "إياك نعبد وإياك نستعين",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 6,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 5,
+    "line_end": 6,
+    "aya_no": 6,
+    "text_tashkeel": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ ٦",
+    "text_simple": "اهدنا الصراط المستقيم",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  },
+  {
+    "id": 7,
+    "jozz": 1,
+    "page": 1,
+    "line_start": 6,
+    "line_end": 8,
+    "aya_no": 7,
+    "text_tashkeel": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ ٧",
+    "text_simple": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة"
+  }
+]

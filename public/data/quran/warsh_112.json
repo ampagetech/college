@@ -1,0 +1,54 @@
+[
+  {
+    "id": 6200,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 112,
+    "sura_name_en": "Al-Ikhlāṣ",
+    "sura_name_ar": "الإخلَاص ",
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 1,
+    "text_tashkeel": "قُلْ هُوَ اَ۬للَّهُ أَحَدٌۖ ١",
+    "text_simple": "قل هو الله أحد"
+  },
+  {
+    "id": 6201,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 112,
+    "sura_name_en": "Al-Ikhlāṣ",
+    "sura_name_ar": "الإخلَاص ",
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 2,
+    "text_tashkeel": "اِ۬للَّهُ اُ۬لصَّمَدُۖ ٢",
+    "text_simple": "الله الصمد"
+  },
+  {
+    "id": 6202,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 112,
+    "sura_name_en": "Al-Ikhlāṣ",
+    "sura_name_ar": "الإخلَاص ",
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 3,
+    "text_tashkeel": "لَمْ يَلِدْ وَلَمْ يُولَدْۖ ٣",
+    "text_simple": "لم يلد ولم يولد"
+  },
+  {
+    "id": 6203,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 112,
+    "sura_name_en": "Al-Ikhlāṣ",
+    "sura_name_ar": "الإخلَاص ",
+    "line_start": 4,
+    "line_end": 4,
+    "aya_no": 4,
+    "text_tashkeel": " وَلَمْ يَكُن لَّهُۥ كُفُؤاً اَحَدٞۖ ٤",
+    "text_simple": "ولم يكن له كفؤا احدٞ"
+  }
+]

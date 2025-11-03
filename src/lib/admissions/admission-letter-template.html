@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 25mm 15mm; /* Reduced left/right margins to 15mm */
+      font-size: 12pt;
+      line-height: 1.5;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 20mm;
+    }
+    .logo {
+      max-width: 150px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .content {
+      max-width: 100%; /* Removed max-width constraint to use full available width */
+      margin: 0 auto;
+    }
+    .signature {
+      max-width: 100px;
+      height: auto;
+      margin-top: 20mm;
+    }
+    .footer {
+      margin-top: 20mm;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      margin: 10px 0;
+    }
+    h3 {
+      text-align: left; /* Align fee headings to the left */
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      margin: 10px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0 20px 0;
+    }
+    th, td {
+      border: 1px solid #000;
+      padding: 5px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    {{#if logoDataUri}}
+      <img src="{{logoDataUri}}" alt="University Logo" class="logo" onerror="this.style.display='none';" />
+    {{else}}
+      <p>[Logo Placeholder]</p>
+    {{/if}}
+    <h1>{{universityName}}</h1>
+    <h3>{{universityMotto}}</h3>
+    <h3>{{registrarOfficeTitle}}</h3>
+    <h3>{{academicDirectorateTitle}}</h3>
+  </div>
+
+  <div class="content">
+    <p>Ref: {{admissionRef}}</p>
+    <p>Date: {{admissionDateFormatted}}, {{currentYear}}</p>
+    <h2>OFFER OF PROVISIONAL ADMISSION</h2>
+    <p>Dear {{studentFullName}},</p>
+    <p>I am pleased to inform you that you have been offered provisional admission into the {{degreeType}} {{courseName}} degree course in the {{facultyName}} for the {{academicSessionName}} academic session.</p>
+    <p>This provisional admission is subject to the verification and confirmation of the credentials submitted in support of your application.</p>
+    <p>The commencement of the {{academicSessionName}} academic session shall be communicated to you with subsequent registration and orientation thereafter.</p>
+    <p>You are to pay a non-refundable acceptance fee of {{acceptanceFeeAmountFormatted}} to confirm your admission. In order to register as a student, you are also expected to pay the following fees on or before orientation:</p>
+    
+    <!-- ================== UPDATED FEE SECTION START ================== -->
+    
+    <!-- Section 1: Compulsory (Once on Registration) -->
+    <h3>A) COMPULSORY FEES (Once on Registration)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Description</th>
+          <th>Amount (NGN)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each compulsoryOnceOnRegistrationFees}}
+          <tr>
+            <td>{{this.name}}</td>
+            <td>{{formatCurrency this.amount "NGN"}}</td>
+          </tr>
+        {{/each}}
+        <tr>
+          <td><strong>Total Once on Registration</strong></td>
+          <td><strong>{{totalCompulsoryOnceOnRegistrationFormatted}}</strong></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Section 2: Compulsory (Every Semester) -->
+    <h3>B) COMPULSORY FEES (Every Semester)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Fee Description</th>
+          <th>Amount (NGN)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each compulsoryPerSemesterFees}}
+          <tr>
+            <td>{{this.name}}</td>
+            <td>{{formatCurrency this.amount "NGN"}}</td>
+          </tr>
+        {{/each}}
+        <tr>
+          <td><strong>Total Per Semester</strong></td>
+          <td><strong>{{totalCompulsoryPerSemesterFormatted}}</strong></td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <!-- Section 3: Optional Fees -->
+    {{#if optionalFees}}
+    <h3>C) OPTIONAL FEES</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Description</th>
+          <th>Amount (NGN)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each optionalFees}}
+          <tr>
+            <td>{{this.name}}</td>
+            <td>{{formatCurrency this.amount "NGN"}}</td>
+          </tr>
+        {{/each}}
+      </tbody>
+    </table>
+    {{/if}}
+    
+    <!-- =================== UPDATED FEE SECTION END =================== -->
+
+    <p>Payments are to be made to any of the following bank accounts:</p>
+    <p>Account Name: {{bankAccountHolderName}}, Bank: {{bank1Name}}, Account Number: {{bank1AccountNumber}}</p>
+    <p>Account Name: {{bankAccountHolderName}}, Bank: {{bank2Name}}, Account Number: {{bank2AccountNumber}}</p>
+    <p>This offer will lapse on failure to accept it (by paying the acceptance fee) by {{acceptanceDeadlineFormatted}}.</p>
+    <p>Congratulations.</p>
+  </div>
+
+  <div class="footer">
+    <p>Sincerely,</p>
+    {{#if signatureDataUri}}
+      <img src="{{signatureDataUri}}" alt="Registrar Signature" class="signature" onerror="this.style.display='none';" />
+    {{else}}
+      <p>[Signature Placeholder]</p>
+    {{/if}}
+    <p>{{registrarName}}</p>
+    <p>REGISTRAR</p>
+  </div>
+</body>
+</html>

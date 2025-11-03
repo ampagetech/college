@@ -1,0 +1,67 @@
+[
+  {
+    "id": 6204,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق ",
+    "line_start": 7,
+    "line_end": 7,
+    "aya_no": 1,
+    "text_tashkeel": "قُلَ اَعُوذُ بِرَبِّ اِ۬لْفَلَقِ ١",
+    "text_simple": "قل اعوذ برب الفلق"
+  },
+  {
+    "id": 6205,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق ",
+    "line_start": 7,
+    "line_end": 7,
+    "aya_no": 2,
+    "text_tashkeel": "مِن شَرِّ مَا خَلَقَ ٢",
+    "text_simple": "من شر ما خلق"
+  },
+  {
+    "id": 6206,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق ",
+    "line_start": 7,
+    "line_end": 8,
+    "aya_no": 3,
+    "text_tashkeel": "وَمِن شَرِّ غَاسِقٍ اِذَا وَقَبَ ٣",
+    "text_simple": "ومن شر غاسق اذا وقب"
+  },
+  {
+    "id": 6207,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق ",
+    "line_start": 8,
+    "line_end": 8,
+    "aya_no": 4,
+    "text_tashkeel": "وَمِن شَرِّ اِ۬لنَّفَّٰثَٰتِ فِے اِ۬لْعُقَدِ ٤",
+    "text_simple": "ومن شر النفثت فے العقد"
+  },
+  {
+    "id": 6208,
+    "jozz": 30,
+    "page": "604",
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق ",
+    "line_start": 8,
+    "line_end": 9,
+    "aya_no": 5,
+    "text_tashkeel": "وَمِن شَرِّ حَاسِدٍ اِذَا حَسَدَۖ ٥",
+    "text_simple": "ومن شر حاسد اذا حسد"
+  }
+]

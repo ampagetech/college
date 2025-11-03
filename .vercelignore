@@ -1,0 +1,8 @@
+
+# Ignore Supabase database assets from Vercel deployments
+sqlscripts/
+
+# You can also add other things you don't want in the deployment
+# For example:
+# README.md
+# docs/

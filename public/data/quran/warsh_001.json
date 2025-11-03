@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 1,
+    "text_tashkeel": "اِ۬لْحَمْدُ لِلهِ رَبِّ اِ۬لْعَٰلَمِينَ ١",
+    "text_simple": "الحمد لله رب العلمين"
+  },
+  {
+    "id": 2,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 3,
+    "line_end": 4,
+    "aya_no": 2,
+    "text_tashkeel": "اَ۬لرَّحْمَٰنِ اِ۬لرَّحِيمِ ٢",
+    "text_simple": "الرحمن الرحيم"
+  },
+  {
+    "id": 3,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 4,
+    "line_end": 4,
+    "aya_no": 3,
+    "text_tashkeel": "مَلِكِ يَوْمِ اِ۬لدِّينِۖ ٣",
+    "text_simple": "ملك يوم الدين"
+  },
+  {
+    "id": 4,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 4,
+    "line_end": 5,
+    "aya_no": 4,
+    "text_tashkeel": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ ٤",
+    "text_simple": "إياك نعبد وإياك نستعين"
+  },
+  {
+    "id": 5,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 5,
+    "line_end": 6,
+    "aya_no": 5,
+    "text_tashkeel": "اُ۪هْدِنَا اَ۬لصِّرَٰطَ اَ۬لْمُسْتَقِيمَ ٥",
+    "text_simple": "اهدنا الصرط المستقيم"
+  },
+  {
+    "id": 6,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 6,
+    "line_end": 7,
+    "aya_no": 6,
+    "text_tashkeel": "صِرَٰطَ اَ۬لذِينَ أَنْعَمْتَ عَلَيْهِمْ ٦",
+    "text_simple": "صرط الذين أنعمت عليهم"
+  },
+  {
+    "id": 7,
+    "jozz": 1,
+    "page": "1",
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة ",
+    "line_start": 7,
+    "line_end": 8,
+    "aya_no": 7,
+    "text_tashkeel": "غَيْرِ اِ۬لْمَغْضُوبِ عَلَيْهِمْ وَلَا اَ۬لضَّآلِّينَۖ ٧",
+    "text_simple": "غير المغضوب عليهم ولا الضآلين"
+  }
+]

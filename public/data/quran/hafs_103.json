@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6177,
+    "jozz": 30,
+    "page": 601,
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 1,
+    "text_tashkeel": "وَٱلۡعَصۡرِ ١",
+    "text_simple": "والعصر",
+    "sura_no": 103,
+    "sura_name_en": "Al-‘Aṣr",
+    "sura_name_ar": "العَصر"
+  },
+  {
+    "id": 6178,
+    "jozz": 30,
+    "page": 601,
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 2,
+    "text_tashkeel": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢",
+    "text_simple": "إن الإنسان لفي خسر",
+    "sura_no": 103,
+    "sura_name_en": "Al-‘Aṣr",
+    "sura_name_ar": "العَصر"
+  },
+  {
+    "id": 6179,
+    "jozz": 30,
+    "page": 601,
+    "line_start": 3,
+    "line_end": 4,
+    "aya_no": 3,
+    "text_tashkeel": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣",
+    "text_simple": "إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر",
+    "sura_no": 103,
+    "sura_name_en": "Al-‘Aṣr",
+    "sura_name_ar": "العَصر"
+  }
+]

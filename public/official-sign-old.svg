@@ -1,0 +1,52 @@
+<svg width="200" height="71" viewBox="0 0 200 71" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main signature strokes based on the handwritten signature -->
+  
+  <!-- First main stroke - diagonal line from top left -->
+  <path d="M15 8 Q35 12 55 16 Q75 20 95 24 Q115 28 135 32 Q155 36 175 40 Q185 42 195 44" 
+        stroke="#2c3e50" 
+        stroke-width="2" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Second stroke - the curved portion -->
+  <path d="M65 15 Q70 25 75 35 Q80 45 85 55 Q90 65 95 60 Q100 55 105 50" 
+        stroke="#2c3e50" 
+        stroke-width="2" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Third stroke - vertical line through middle -->
+  <path d="M85 5 Q87 15 89 25 Q91 35 93 45 Q95 55 97 65" 
+        stroke="#2c3e50" 
+        stroke-width="2" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Fourth stroke - cross/intersection -->
+  <path d="M78 20 Q85 22 92 24 Q99 26 106 28" 
+        stroke="#2c3e50" 
+        stroke-width="2" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Fifth stroke - lower curved portion -->
+  <path d="M25 45 Q45 48 65 51 Q85 54 105 57 Q125 60 145 58 Q165 56 175 54" 
+        stroke="#2c3e50" 
+        stroke-width="1.8" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Additional detail strokes to match the signature complexity -->
+  <path d="M70 35 Q75 30 80 35 Q85 40 90 35" 
+        stroke="#2c3e50" 
+        stroke-width="1.5" 
+        fill="none" 
+        stroke-linecap="round"/>
+        
+  <!-- Final flourish -->
+  <path d="M110 45 Q120 42 130 45 Q140 48 150 45" 
+        stroke="#2c3e50" 
+        stroke-width="1.5" 
+        fill="none" 
+        stroke-linecap="round"/>
+</svg>

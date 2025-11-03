@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6205,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 14,
+    "line_end": 14,
+    "aya_no": 1,
+    "text_tashkeel": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ ١",
+    "text_simple": "إنا أعطيناك الكوثر",
+    "sura_no": 108,
+    "sura_name_en": "Al-Kauthar",
+    "sura_name_ar": "الكَوثر"
+  },
+  {
+    "id": 6206,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 14,
+    "line_end": 14,
+    "aya_no": 2,
+    "text_tashkeel": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ ٢",
+    "text_simple": "فصل لربك وانحر",
+    "sura_no": 108,
+    "sura_name_en": "Al-Kauthar",
+    "sura_name_ar": "الكَوثر"
+  },
+  {
+    "id": 6207,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 15,
+    "line_end": 15,
+    "aya_no": 3,
+    "text_tashkeel": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ ٣",
+    "text_simple": "إن شانئك هو الأبتر",
+    "sura_no": 108,
+    "sura_name_en": "Al-Kauthar",
+    "sura_name_ar": "الكَوثر"
+  }
+]

@@ -1,0 +1,35 @@
+/* src/app/print.css */
+
+@media print {
+    body * {
+      visibility: hidden;
+    }
+    #printable-area, #printable-area * {
+      visibility: visible;
+    }
+    #printable-area {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #admission-letter-content {
+      box-shadow: none !important;
+      border: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      max-width: 100% !important;
+    }
+    .page-break-after {
+      page-break-after: always;
+    }
+    table, figure {
+      page-break-inside: avoid;
+    }
+    @page {
+      size: A4;
+      margin: 2cm;
+    }
+  }

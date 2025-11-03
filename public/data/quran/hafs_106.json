@@ -1,0 +1,54 @@
+[
+  {
+    "id": 6194,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 1,
+    "text_tashkeel": "لِإِيلَٰفِ قُرَيۡشٍ ١",
+    "text_simple": "لإيلاف قريش",
+    "sura_no": 106,
+    "sura_name_en": "Quraish",
+    "sura_name_ar": "قُرَيش"
+  },
+  {
+    "id": 6195,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 3,
+    "line_end": 3,
+    "aya_no": 2,
+    "text_tashkeel": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ٢",
+    "text_simple": "إيلافهم رحلة الشتاء والصيف",
+    "sura_no": 106,
+    "sura_name_en": "Quraish",
+    "sura_name_ar": "قُرَيش"
+  },
+  {
+    "id": 6196,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 4,
+    "line_end": 4,
+    "aya_no": 3,
+    "text_tashkeel": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ٣",
+    "text_simple": "فليعبدوا رب هذا البيت",
+    "sura_no": 106,
+    "sura_name_en": "Quraish",
+    "sura_name_ar": "قُرَيش"
+  },
+  {
+    "id": 6197,
+    "jozz": 30,
+    "page": 602,
+    "line_start": 4,
+    "line_end": 5,
+    "aya_no": 4,
+    "text_tashkeel": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ ٤",
+    "text_simple": "الذي أطعمهم من جوع وآمنهم من خوف",
+    "sura_no": 106,
+    "sura_name_en": "Quraish",
+    "sura_name_ar": "قُرَيش"
+  }
+]
